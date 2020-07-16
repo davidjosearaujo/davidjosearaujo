@@ -1,13 +1,13 @@
-### Welcome 😜
+## Welcome 😜
 
 ![Alt text](https://github.com/DavidAraujo98/DavidAraujo98/blob/master/IMG_20200609_100735.jpg)
 
 Here are some ideas to get you started:
 
-[Facebook]https://www.facebook.com/david2araujo5/
-[Instagram]
-[Twitter]
-[Telegram] https://www.facebook.com/david2araujo5/
+- [Facebook]https://www.facebook.com/david2araujo5/
+ - Instagram: davidjosearaujo
+ - Twitter: @David_Ara_jo
+ - Telegram: @David_Ara_jo 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
