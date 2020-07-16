@@ -1,6 +1,7 @@
 ### Welcome 😜
 
-![alt text](https://github.com/DavidAraujo98/DavidAraujo98/image.jpg?raw=true)
+
+![Me](https://github.com/DavidAraujo98/DavidAraujo98/blob/master/IMG_20200609_100735.jpg)
 
 Here are some ideas to get you started:
 
