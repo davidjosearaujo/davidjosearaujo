@@ -10,6 +10,6 @@ My name is David, I'm a Computer Science student, with an interest in mobile app
 
 ### How can you reach me ?
 - [Facebook](https://www.facebook.com/david2araujo5/)
- - Instagram: davidjosearaujo
- - Twitter: @David_Ara_jo
+ - [Instagram](https://www.instagram.com/davidjosearaujo/)
+ - [Twitter](https://twitter.com/David_Ara_jo)
  - Telegram: @David_Ara_jo 
