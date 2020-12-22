@@ -1,7 +1,5 @@
 # Welcome 😜
 
-![Alt text](https://github.com/DavidAraujo98/DavidAraujo98/blob/master/IMG_20200609_100735.jpg)
-
 ### Who am I ?
 My name is David, I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services.
 
