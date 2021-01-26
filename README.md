@@ -3,8 +3,8 @@
 ### :sunglasses: Who am I
 I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to invest in the stock market as a hobbie, and generaly interested in politics.
 
-### :books: Currently learning ...
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gclsrc=ds&gclsrc=ds)
+### :books: Currently learning / reading ...
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gclsrc=ds&gclsrc=ds) [![Reading](https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://cryptobook.nakov.com/)
 
 ### :hammer: Currently working on ...
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner&username=davidaraujo98&repo=WaGo&show_owner=true&theme=react)](https://github.com/DavidAraujo98/WaGo)
