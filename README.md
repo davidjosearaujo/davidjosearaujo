@@ -7,7 +7,7 @@ I'm a Computer Science student, with an interest in mobile application developme
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gclsrc=ds&gclsrc=ds) [![Reading](https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white)](https://cryptobook.nakov.com/)
 
 ### :hammer: Currently working on ...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner&username=davidaraujo98&repo=WaGo&show_owner=true&theme=react)](https://github.com/DavidAraujo98/WaGo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner&username=davidaraujo98&repo=EPHScores&show_owner=true&theme=react)](https://github.com/DavidAraujo98/EPHScores)
 
 ### :relaxed: My stats
 [![David Araujo's github stats](https://github-readme-stats.vercel.app/api?username=davidaraujo98&hide=prs,contribs&count_private=true&show_icons=true&theme=react)](https://github.com/davidaraujo98/github-readme-stats)
