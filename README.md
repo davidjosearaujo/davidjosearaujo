@@ -6,7 +6,9 @@ I'm a Computer Science student, with an interest in mobile application developme
 ### :books: Currently learning / reading ...
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gclsrc=ds&gclsrc=ds)
 
-### :hammer: Currently working on ...
+[//]: # ( ### :hammer: Currently working on ...)
+
+### :rocket: Big launches
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner&username=davidaraujo98&repo=EPHScores&show_owner=true&theme=react)](https://github.com/DavidAraujo98/EPHScores)
 
 ### :relaxed: My stats
