@@ -4,7 +4,7 @@
 I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to invest in the stock market as a hobbie, and generaly interested in politics.
 
 ### :books: Currently learning / reading ...
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gclsrc=ds&gclsrc=ds)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![Vue Js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)](https://vuejs.org/)
 
 [//]: # ( ### :hammer: Currently working on ...)
 
