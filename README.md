@@ -9,7 +9,7 @@ I'm a Computer Science student, with an interest in mobile application developme
 [//]: # ( ### :hammer: Currently working on ...)
 
 ### :rocket: Big launches
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner&username=davidaraujo98&repo=EPHScores&show_owner=true&theme=react)](https://github.com/DavidAraujo98/EPHScores)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?show_owner&username=davidaraujo98&repo=HelpUkraine&show_owner=true&theme=react)](https://github.com/DavidAraujo98/HelpUkraine)
 
 ### :relaxed: My stats
 [![David Araujo's github stats](https://github-readme-stats.vercel.app/api?username=davidaraujo98&hide=prs,contribs&count_private=true&show_icons=true&theme=react)](https://github.com/davidaraujo98/github-readme-stats)
