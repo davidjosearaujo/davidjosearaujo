@@ -24,4 +24,6 @@ I'm a Computer Science student, with an interest in mobile application developme
 
 [![Ricochet Key](https://img.shields.io/static/v1?label=Ricochet&message=Key&color=green&style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/DavidAraujo98/DavidAraujo98/04b9422be8a0f113e228594cdbfeb38d7f546e0c/ricochet.txt)
 
-![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)  - For voice calls, **Brave Talk**
+### :student: For students
+
+My college notes can be found at [GitBook](https://david-araujo.gitbook.io/universidade-miect/)
