@@ -1,5 +1,7 @@
 # Welcome ! :wave:
 
+![](https://komarev.com/ghpvc/?username=DavidAraujo98)
+
 ### :sunglasses: Who am I
 I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to read, and generaly interested in politics.
 
