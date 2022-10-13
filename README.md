@@ -1,11 +1,11 @@
 # Welcome ! :wave:
 
-![](https://komarev.com/ghpvc/?username=DavidAraujo98)
-
 ### :sunglasses: Who am I
 I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to read, and generaly interested in politics.
 
 ### :relaxed: My stats
+![](https://komarev.com/ghpvc/?username=DavidAraujo98)
+
 [![David Araujo's github stats](https://github-readme-stats.vercel.app/api?username=davidaraujo98&hide=prs,contribs&count_private=true&show_icons=true&theme=graywhite)](https://github.com/davidaraujo98/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidaraujo98&layout=compact&theme=graywhite)](https://github.com/davidaraujo98/github-readme-stats)
