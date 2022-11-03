@@ -18,11 +18,7 @@ I'm a Computer Science student, with an interest in mobile application developme
 
 ### 🔐 For privacy concerned people
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:david2araujo5@proton.me)
-
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
-
-![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white) - Email me contact information via **ProtonMail**
-
 [![Ricochet Key](https://img.shields.io/static/v1?label=Ricochet&message=Key&color=green&style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/DavidAraujo98/DavidAraujo98/04b9422be8a0f113e228594cdbfeb38d7f546e0c/ricochet.txt)
 
 ### :student: For students
