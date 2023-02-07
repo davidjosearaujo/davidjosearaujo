@@ -19,4 +19,4 @@ I'm a Computer Science student, with an interest in mobile application developme
 
 ### :student: For students
 
-My college notes can be found at [GitBook](https://david-araujo.gitbook.io/universidade-miect/)
+My college notes can be found at [GitBook](https://david-araujo.gitbook.io/apontamentos-miect/)
