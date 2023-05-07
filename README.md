@@ -23,4 +23,4 @@ I'm a Computer Science student, with an interest in mobile application developme
 
 ### :student: For students, my college notes can be found at ...
 
-[![GitBook](https://a11ybadges.com/badge?logo=gitbook)]([https://david-araujo.gitbook.io/apontamentos-miect/])
+[![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://david-araujo.gitbook.io/apontamentos-miect/)
