@@ -21,6 +21,6 @@ I'm a Computer Science student, with an interest in mobile application developme
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](telegram.jpg)
 
 
-### :student: For students
+### :student: For students, my college notes can be found at ...
 
-My college notes can be found at [GitBook](https://david-araujo.gitbook.io/apontamentos-miect/)
+[![GitBook](https://a11ybadges.com/badge?logo=gitbook)]([https://david-araujo.gitbook.io/apontamentos-miect/])
