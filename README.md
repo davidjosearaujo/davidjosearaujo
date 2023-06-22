@@ -1,7 +1,7 @@
-# Welcome ! :wave:
+# Welcome! :wave:
 
 ### :sunglasses: Who am I
-I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to read, and generaly interested in politics.
+I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to read, and generally interested in politics.
 
 ### :relaxed: My stats
 ![](https://komarev.com/ghpvc/?username=DavidAraujo98)
@@ -12,10 +12,12 @@ I'm a Computer Science student, with an interest in mobile application developme
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/David_Ara_jo#5133)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://david2araujo5.medium.com/)
 
-### 🔐 For privacy concerned people ...
+### 🔐 For privacy-concerned people ...
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:david2araujo5@proton.me)
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](telegram.jpg)
+
+If you need to share something **anonymously**, please refer to my [**OnionShare**](http://iimltxr4oe74eshdpstd3midfrqvytjn6xmvc7vppje7mktcdazwyhid.onion)
 
 ### :student: For students, my college notes can be found at ...
 [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://david-araujo.gitbook.io/apontamentos-miect/)
