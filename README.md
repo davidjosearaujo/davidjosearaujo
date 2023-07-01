@@ -17,7 +17,5 @@ I'm a Computer Science student, with an interest in mobile application developme
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](telegram.jpg)
 
-If you need to share something **anonymously**, please refer to my [**OnionShare**](http://lk4ph2vkqbqafti4zy2ahnqlnefbu6q3fwexgfriyravxozkiwup26qd.onion/)
-
 ### :student: For students, my college notes can be found at ...
 [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://david-araujo.gitbook.io/apontamentos-miect/)
