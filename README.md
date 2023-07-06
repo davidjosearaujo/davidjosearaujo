@@ -1,7 +1,11 @@
 # Welcome! :wave:
 
 ### :sunglasses: Who am I
-I'm a Computer Science student, with an interest in mobile application development and cybersecurity. As a volunteer firefighter, one of my favorite pass times is looking for ways to combine two of my passions, technology and emergency services. I also like to read, and generally interested in politics.
+Highly motivated and obsessively focused, is the best way to describe me. I commit myself entirely to every project I work on because software development is more than just my job; it is also my hobby and passion. My main fields of interest are **networking**, **web3 technologies**, and **cybersecurity**.
+
+I’ve been programming since I was 15, and from that point onward, I knew that technology was my vocation. Nowadays, I have the pleasure and opportunity of studying **Computer and Telematics Engineering at the University of Aveiro**, which has broadened my view of this field and has been a fantastic learning journey.
+
+In my spare time, I tend to spend it developing my own ideas (of which I seem to never get enough) **for innovative systems and applications**. I’m also a volunteer firefighter and as such I tend to draw inspiration from my personal experiences in the field of rescue and crisis response for the development of tools that can aid me and others like me to get the job done well!
 
 ### :relaxed: My stats
 ![](https://komarev.com/ghpvc/?username=DavidAraujo98)
@@ -19,3 +23,6 @@ I'm a Computer Science student, with an interest in mobile application developme
 
 ### :student: For students, my college notes can be found at ...
 [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://david-araujo.gitbook.io/apontamentos-miect/)
+
+### Support me if you like my work!
+<a href="https://www.buymeacoffee.com/davidjosearaujo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
