@@ -1,16 +1,16 @@
 # Welcome! :wave:
 
-### :sunglasses: Who am I
+### :sunglasses: Who I am
 Highly motivated and obsessively focused, is the best way to describe me. I commit myself entirely to every project I work on because software development is more than just my job; it is also my hobby and passion. My main fields of interest are **networking**, **web3 technologies**, and **cybersecurity**.
 
 I’ve been programming since I was 15, and from that point onward, I knew that technology was my vocation. Nowadays, I have the pleasure and opportunity of studying **Computer and Telematics Engineering at the University of Aveiro**, which has broadened my view of this field and has been a fantastic learning journey.
 
-In my spare time, I tend to spend it developing my own ideas (of which I seem to never get enough) **for innovative systems and applications**. I’m also a volunteer firefighter and as such I tend to draw inspiration from my personal experiences in the field of rescue and crisis response for the development of tools that can aid me and others like me to get the job done well!
+In my spare time, I tend to spend it developing my ideas (of which I seem to never get enough) **for innovative systems and applications**. I’m also a volunteer firefighter and as such I tend to draw inspiration from my personal experiences in the field of rescue and crisis response for the development of tools that can aid me and others like me to get the job done well!
 
 ### :relaxed: My stats
 ![](https://komarev.com/ghpvc/?username=DavidAraujo98)
 
-[![David Araujo's github stats](https://github-readme-stats.vercel.app/api?username=davidaraujo98&hide=prs,contribs&count_private=true&show_icons=true&theme=graywhite)](https://github.com/davidaraujo98/github-readme-stats)
+![David Araujo's github stats](https://github-readme-stats.vercel.app/api?username=davidjosearaujo&count_private=true&show_icons=true&theme=graywhite)
 
 ### 📍 You can find me at  ...
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/David_Ara_jo#5133)
