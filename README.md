@@ -19,7 +19,7 @@ In my spare time, I tend to spend it developing my ideas (of which I seem to nev
 ### 🔐 For privacy-concerned people ...
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:david2araujo5@proton.me)
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](telegram.jpg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DavidJoAra)
 
 ### :student: For students, my college notes can be found at ...
 [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://david-araujo.gitbook.io/apontamentos-miect/)
