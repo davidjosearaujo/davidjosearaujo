@@ -22,7 +22,7 @@ In my spare time, I tend to spend it developing my ideas (of which I seem to nev
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DavidJoAra)
 
 ### :student: For students, my college notes can be found at ...
-[![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://david-araujo.gitbook.io/apontamentos-miect/)
+[![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
 
 ### Support me if you like my work!
 <a href="https://www.buymeacoffee.com/davidjosearaujo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
