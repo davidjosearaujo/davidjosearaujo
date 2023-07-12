@@ -21,6 +21,8 @@ In my spare time, I tend to spend it developing my ideas (of which I seem to nev
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DavidJoAra)
 
+If you need to send me signed files or want to verify mine, I use [minisign](https://jedisct1.github.io/minisign/) and you can access my public key [here](minisign.pub).
+
 ### :student: For students, my college notes can be found at ...
 [![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
 
