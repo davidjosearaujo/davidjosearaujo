@@ -21,10 +21,9 @@ In my spare time, I tend to spend it developing my ideas (of which I seem to nev
 [![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DavidJoAra)
 
-If you need to send me signed files or want to verify mine, I use [minisign](https://jedisct1.github.io/minisign/) and you can access my public key [here](minisign.pub).
-
-### :student: For students, my college notes can be found at ...
-[![GitBook](https://a11ybadges.com/badge?logo=gitbook)](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
+### :student: College notes ...
+- [Bachelors in Computer and Telematics Engineering](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
+- [Masters in Cybersecurity](https://davidjosearaujo.gitbook.io/apontamentos-mcs/)
 
 ### Support me if you like my work!
 <a href="https://www.buymeacoffee.com/davidjosearaujo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
