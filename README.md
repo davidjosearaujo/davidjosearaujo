@@ -23,7 +23,8 @@ In my spare time, I tend to spend it developing my ideas (of which I seem to nev
 
 ### :student: College notes ...
 - [Bachelors in Computer and Telematics Engineering](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
-- [Masters in Cybersecurity](https://davidjosearaujo.gitbook.io/apontamentos-mcs/v/mcs/)
+- [Masters in Cybersecurity](https://davidjosearaujo.gitbook.io/notes-mcs/)
+- [Online Courses](https://davidjosearaujo.gitbook.io/online-courses/)
 
 ### Support me if you like my work!
 <a href="https://www.buymeacoffee.com/davidjosearaujo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
