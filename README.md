@@ -5,9 +5,7 @@ Tech geek since 15, now knee-deep in a Master's in Cybersecurity at the Universi
 
 Started as a student researcher on the FireTech project, developing wildfire detection and warning systems. Now, I'm tackling Software Defined Networks with a Graduate Research Scholarship.
 
-When I'm not coding, I'm inventing new apps and systems or volunteering as a firefighter, where I get my best ideas for rescue tech. Passionate, focused, and always up for a challenge!
-
-Oh, and if I don't respond right away, I'm probably out running!
+When I'm not coding, I'm inventing new apps and systems, fighting fires or trails running, and thats me: passionate, focused, and always up for a challenge!
 
 ### :relaxed: My stats
 ![](https://komarev.com/ghpvc/?username=DavidAraujo98)
