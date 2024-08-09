@@ -22,8 +22,6 @@ Oh, and if I don't respond right away, I'm probably out running!
 
 ### 🔐 For privacy-concerned people ...
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:david2araujo5@proton.me)
-[![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@davidjoaraujo:matrix.org)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DavidJoAra)
 
 ### :student: College notes ...
 - [Bachelors in Computer and Telematics Engineering](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
