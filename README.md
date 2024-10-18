@@ -1,9 +1,9 @@
 # Welcome! :wave:
 
 ### :sunglasses: Who I am
-Tech geek since 15, now knee-deep in a Master's in Cybersecurity at the University of Aveiro. I live and breathe software development, especially networking and cybersecurity.
+Tech geek since 15, now knee-deep in a Master's in Cybersecurity at the University of Aveiro. I live and breathe software development, especially networking and cybersecurity where I have a strong interest in network security, malware and reverse engineering.
 
-Started as a student researcher on the FireTech project, developing wildfire detection and warning systems. Now, I'm tackling Software Defined Networks with a Graduate Research Scholarship.
+I started my reasearch journey tackling Software Defined Networks with a Graduate Research Scholarship and currently taking authentication issues in 5G networks.
 
 When I'm not coding, I'm dreaming new systems, fighting fires or trails running, and thats me: passionate, focused, and always up for a challenge!
 
