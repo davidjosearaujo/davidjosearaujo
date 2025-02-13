@@ -14,13 +14,6 @@ When I'm not coding, I'm dreaming new systems, fighting fires or trails running,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidjosearaujo&layout=compact&langs_count=10&theme=graywhite)
 
-### 📍 You can find me at  ...
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/David_Ara_jo#5133)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://david2araujo5.medium.com/)
-
-### 🔐 For privacy-concerned people ...
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:david2araujo5@proton.me)
-
 ### :student: College notes ...
 - [Bachelors in Computer and Telematics Engineering](https://davidjosearaujo.gitbook.io/apontamentos-miect/)
 - [Masters in Cybersecurity](https://davidjosearaujo.gitbook.io/notes-mcs/)
